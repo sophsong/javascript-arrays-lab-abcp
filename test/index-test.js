@@ -77,3 +77,6 @@
 
 var kittens = ['Milo', 'Otis', 'Garfield']
 kittens.push('Peter')
+kittens.pop('Marcus')
+kittens.unshift('Damien')
+kittens.shift('May')
